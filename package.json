@@ -1,0 +1,19 @@
+{
+  "name": "GITHUB-ACTIONS-FRONT-END",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "GuilhermeGueds <guilhermeguedes.cc@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^14.0.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "scripts": {
+    "start": "next start",
+    "dev": "next dev",
+    "lint": "next lint",
+    "export": "next export",
+    "build": "next build"
+  }
+}
